@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "description_header": "Hi 👋",
+    "description": " ",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Vin-Global",
+      "startDate": "2022 - Under development",
+      "description": "At Vin-Global we like to take the complication out of compliance. Our long experience in the alcohol industry and our expertise in the compliance arena allows us to create a one-stop compliance solution for our clients. Managing the complications of compliance has never been this easy",
+      "images": [
+        "images/portfolio/vingo/vingo.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "Reactjs"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "title": "BoxCheck Compliance",
+      "startDate": "July 2020 - September 2021",
+      "description": "BOXCHECK, powered by 24Seven Connect, provides retailers with a modern end-to-end compliance and delivery technology platform that isscalable, fully supported, and built to evolve with your changing needs.The first, turn-key compliance and delivery product designed for retailers of alcoholic beverages that streamlines and simplifies DTC operations.",
+      "images": [
+        "images/portfolio/boxcheck/boxcheck.png",
+        "images/portfolio/boxcheck/o1.png",
+        "images/portfolio/boxcheck/o3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "Reactjs"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-apachekafka-plain",
+          "name": "kafka"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        }
+      ]
+    },
+    {
+      "title": "Content Management System",
+      "startDate": "Augest 2021 - June 2022",
+      "description": "You can let your fans become active participants in the work they love by offering them a monthly membership. You give them access to exclusive content, community, and insight into your creative process. In exchange, you get the freedom to do your best work, and the stability you need to build an independent creative career.",
+      "images": [
+        "images/portfolio/cms/cm.png",
+        "images/portfolio/cms/p1.png",
+        "images/portfolio/cms/p2.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "Reactjs"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        }
+      ]
+    },
+    {
+      "title": "NextBazaar",
+      "startDate": "2019 - 2020",
+      "description": "Nextbazar is a marketplace application where you can buy and sell. User can create the product post and buyer can buy the products.",
+      "images": [
+        "images/portfolio/nextbazaar/p1.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "Reactjs"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "GlobalShopaholics",
+      "startDate": "2018 - 2019",
+      "description": "The aim of Global Shopaholics is to provide shipping access from US retail brands to international shoppers. Our wide shipping network and swift package processing allow us to send shipments all around the world without any hassle. We pride ourselves in providing fast and reliable services to 70 thousand plus users today.We are among the few package forwarding companies that are certified for shipping dangerous goods like cosmetics, perfumes, and rechargeable batteries.",
+      "images": [
+        "images/portfolio/global/logo.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Nextbridge (Pvt.) Ltd",
+      "title": "MERN Stack Developer",
+      "years": "06.2020 - present",
+      "index":3,
+      "mainTech": [
+        "Javascript",
+        "Reactjs",
+        "Nodejs"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "Material-ui",
+        "Reactjs",
+        "Nodejs",
+        "Docker",
+        "AWS",
+        "MongoDB",
+        "MySql"
+      ]
+    },
+    {
+      "company": "Jobesk",
+      "title": "Javascript Developer",
+      "years": "10.2019 - 04.2020",
+      "mainTech": [
+        "ReactJs",
+        "Nodejs"
+      ],
+      "index":2,
+      "technologies": [
+        "Javascript",
+        "ReactJs",
+        "NodeJS",
+        "PHP",
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "company": "BeSpider",
+      "title": "Full stack Developer",
+      "years": "Mar 2017 - Sep.2019",
+      "mainTech": [
+        "ReactJs",
+        "PHP",
+        "Laravel"
+      ],
+      "index":1,
+      "technologies": [
+        "Javascript",
+        "ReactJs",
+        "PHP",
+        "Laravel",
+        "CodeIgniter",
+        "HTML5",
+        "CSS3",
+        "Bootstrap"
+      ]
+    }
+  ]
+}
